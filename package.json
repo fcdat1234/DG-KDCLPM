@@ -1,0 +1,24 @@
+{
+  "name": "jstodo-master",
+  "version": "1.0.0",
+  "description": "A Javascript todo list application that manages the state of a task (from & to checked, delete) and allows for filtering.  All tasks are stored in local storage.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcdat1234/DG-KDCLPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fcdat1234/DG-KDCLPM/issues"
+  },
+  "homepage": "https://github.com/fcdat1234/DG-KDCLPM#readme",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
